@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-b577047b23.ypnpy.cn/sitemap.xml

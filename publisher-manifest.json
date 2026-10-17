@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "31d5da354e60b2cde0e813b8",
+  "owner": "fmkpps",
+  "repo": "page-615bbec3d5ba6da93ee03e47",
+  "title": "Slice",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "615bbec3d5ba6da93ee03e47",
+      "a": "Slice",
+      "b": "",
+      "entity": "Slice",
+      "brand": "Slice",
+      "separator": "",
+      "path": "index.html",
+      "hash": "325f5e1a8411e21f8784ba6baf9fd36ded2d9604b8b020138eb7e77aeaab0af0",
+      "content": {
+        "keyword1": "Slice",
+        "keyword2": "",
+        "primary_entity": "Slice",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "Slice 提供清晰、直接的流量套餐与连接服务。无多余装饰，专注每一个字节的稳定送达。",
+          "AI_DESCRIPTION": "Slice 提供清晰、直接的流量套餐与连接服务。无多余装饰，专注每一个字节的稳定送达。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n* {box-sizing: border-box;margin: 0;padding: 0}\nbody {background-color: #f7f5f0;color: #2b2b2b;font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif;line-height: 1.6;padding: 2rem 1rem}\nmain {max-width: 900px;margin: 0 auto}\nsection {margin-bottom: 4rem}\n.hero {padding: 4rem 0 2rem 0;border-bottom: 2px dashed #b83a2b;margin-bottom: 3rem}\n.brand-title {font-size: clamp(4rem, 15vw, 10rem);font-weight: 900;color: #b83a2b;line-height: 0.9;letter-spacing: -0.05em;margin-bottom: 1rem;text-transform: uppercase}\n.hero-subtitle {font-size: 1.25rem;color: #555;max-width: 32rem;margin-bottom: 2rem}\n.hero-links {display: flex;gap: 1.5rem;flex-wrap: wrap}\n.hero-links a {color: #2b2b2b;text-decoration: none;font-weight: 600;border-bottom: 1px solid #b83a2b;padding-bottom: 2px}\n.hero-links a:hover {color: #b83a2b}\nh2 {font-size: 1.75rem;color: #b83a2b;margin-bottom: 1.5rem;font-weight: 700;border-left: 4px solid #b83a2b;padding-left: 0.75rem}\n.intro-list {list-style: none}\n.intro-list li {position: relative;padding-left: 1.5rem;margin-bottom: 0.75rem}\n.intro-list li::before {content: \"—\";position: absolute;left: 0;color: #b83a2b;font-weight: bold}\n.ticket-card {border: 2px dashed #b83a2b;padding: 2rem;margin-bottom: 1.5rem;background-color: #fff;position: relative}\n.ticket-card.featured {background-color: #fff8f7}\n.ticket-header {display: flex;justify-content: space-between;align-items: baseline;margin-bottom: 1rem;border-bottom: 1px dashed #ddd;padding-bottom: 0.75rem}\n.plan-name {font-size: 1.25rem;font-weight: 700;color: #2b2b2b}\n.plan-price {font-size: 1.5rem;font-weight: 800;color: #b83a2b}\n.plan-features {list-style: none;margin-bottom: 1.5rem}\n.plan-features li {margin-bottom: 0.5rem;font-size: 0.95rem;color: #444}\n.btn {display: inline-block;background-color: #b83a2b;color: #fff;padding: 0.75rem 1.5rem;text-decoration: none;font-weight: 600;text-transform: uppercase;font-size: 0.85rem;letter-spacing: 0.05em}\n.btn:hover {background-color: #962e21}\n.annual-note {font-size: 0.85rem;color: #666;margin-top: 0.5rem}\n.faq-list {list-style: none}\n.faq-item {border: 2px dashed #b83a2b;padding: 1.5rem;margin-bottom: 1rem;background-color: #fff}\n.faq-question {font-weight: 700;color: #b83a2b;margin-bottom: 0.5rem;font-size: 1.1rem}\n.faq-answer {color: #444}\nfooter {border-top: 2px dashed #b83a2b;padding-top: 2rem;margin-top: 4rem;font-size: 0.85rem;color: #666;display: flex;justify-content: space-between;flex-wrap: wrap;gap: 1rem}\nfooter a {color: #b83a2b;text-decoration: none}\n@media (max-width: 600px) {\n  body {padding: 1rem 0.5rem}\n  .ticket-header {flex-direction: column;align-items: flex-start;gap: 0.5rem}\n}\n</style><main>\n  <header class=\"hero\">\n    <h1 class=\"brand-title\">Slice</h1>\n    <p class=\"hero-subtitle\">去除冗余，回归本质。为对连接品质有明确要求的用户提供稳定、干净的传输通道。</p>\n    <nav class=\"hero-links\">\n      <a href=\"#plans\">查看套餐</a>\n      <a href=\"#usage\">使用说明</a>\n      <a href=\"#faq\">常见问题</a>\n    </nav>\n  </header>\n\n  <section id=\"usage\">\n    <h2>使用说明</h2>\n    <ul class=\"intro-list\">\n      <li>无需安装复杂客户端，支持市面上主流协议与第三方软件导入。</li>\n      <li>购买后获取专属订阅地址，一键复制并导入至您的终端设备。</li>\n      <li>所有节点实时状态可见，无隐藏带宽限制，按需选择对应规格。</li>\n    </ul>\n  </section>\n\n  <section id=\"plans\">\n    <h2>服务套餐</h2>\n    \n    <article class=\"ticket-card\">\n      <div class=\"ticket-header\">\n        <span class=\"plan-name\">基础版</span>\n        <span class=\"plan-price\">¥15/月</span>\n      </div>\n      <ul class=\"plan-features\">\n        <li>每月 100GB 极速流量</li>\n        <li>支持 3 台设备同时在线</li>\n        <li>解锁基础流媒体</li>\n        <li>普通线路节点池</li>\n      </ul>\n      <p class=\"annual-note\">按年付仅需 ¥150/年</p>\n      <a href=\"#plans\" class=\"btn\">选择基础版</a>\n    </article>\n\n    <article class=\"ticket-card featured\">\n      <div class=\"ticket-header\">\n        <span class=\"plan-name\">旗舰版 (推荐)</span>\n        <span class=\"plan-price\">¥35/月</span>\n      </div>\n      <ul class=\"plan-features\">\n        <li>每月 300GB 极速流量</li>\n        <li>支持 5 台设备同时在线</li>\n        <li>全节点原生流媒体解锁</li>\n        <li>IPLC 专线游戏加速优化</li>\n        <li>7x24 优先工单支持</li>\n      </ul>\n      <p class=\"annual-note\">按年付仅需 ¥350/年</p>\n      <a href=\"#plans\" class=\"btn\">选择旗舰版</a>\n    </article>\n\n    <article class=\"ticket-card\">\n      <div class=\"ticket-header\">\n        <span class=\"plan-name\">团队版</span>\n        <span class=\"plan-price\">¥85/月</span>\n      </div>\n      <ul class=\"plan-features\">\n        <li>每月 1000GB 极速流量</li>\n        <li>支持 20 台设备同时在线</li>\n        <li>VIP 专属高带宽节点</li>\n        <li>支持企业定制路由</li>\n        <li>专属客户经理服务</li>\n      </ul>\n      <p class=\"annual-note\">按年付仅需 ¥850/年</p>\n      <a href=\"#plans\" class=\"btn\">选择团队版</a>\n    </article>\n  </section>\n\n  <section id=\"faq\">\n    <h2>常见问题</h2>\n    <ol class=\"faq-list\">\n      <li class=\"faq-item\">\n        <div class=\"faq-question\">01. 如何开始使用 Slice 的服务？</div>\n        <div class=\"faq-answer\">注册账号并完成套餐订购后，您将在用户面板中获得专属订阅链接。将其复制并粘贴至您常用的兼容客户端即可完成配置。</div>\n      </li>\n      <li class=\"faq-item\">\n        <div class=\"faq-question\">02. 流量是否会在月底清空？</div>\n        <div class=\"faq-answer\">是的。所有套餐流量均按自然月周期重置，未用完的流量不会累积至下一个计费周期。</div>\n      </li>\n      <li class=\"faq-item\">\n        <div class=\"faq-question\">03. 是否支持更换或升级套餐？</div>\n        <div class=\"faq-answer\">支持。您可以随时在控制面板中选择升级或更改当前套餐，系统将自动计算差价与折算剩余时间。</div>\n      </li>\n    </ol>\n  </section>\n\n  <footer>\n    <div>© Slice. All rights reserved.</div>\n    <div><a href=\"#plans\">返回顶部</a></div>\n  </footer>\n</main>",
+          "hash": "3d4f998b22c62324dfc3830a564a73ebfe6fc511af9430459c95179b3e513100",
+          "seo": {
+            "title": "Slice - 极简主义网络连接工具",
+            "keywords": "Slice,网络连接,数据传输,流量套餐,专线服务",
+            "description": "Slice 提供清晰、直接的流量套餐与连接服务。无多余装饰，专注每一个字节的稳定送达。"
+          },
+          "provider": "grok",
+          "model": "gemini-3.7-flash",
+          "design": {
+            "no": "8681",
+            "hero": "2 超大字号品牌名铺满首屏的海报式",
+            "palette": "2 米白配砖红",
+            "nav": "6 无导航，用区块内的跳转链接",
+            "card": "6 虚线框票据风格",
+            "plans_view": "2 纵向列表逐行展开",
+            "faq_view": "2 编号列表",
+            "tone": "6 清单式务实口吻",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "ypnpy.cn",
+    "host": "p-b577047b23.ypnpy.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "190b14e043f1ca8366494a49e9483a5148b0622afe1c1b3a8b88de7918cc2d62",
+    "sitemap.xml": "8857793ffa7ee85067cb1c5ed0cfff21cc43cfe49dfe1b40c34204cb0c51527f",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "32609b1ae36c969e45c62e7590718e6d1ae039a0acefb5701bf585b1bab8fad8",
+    "robots.txt": "5ff77c874403312b27ffef83a8a17a4a07414ccaec22d7f554f06e704d241743",
+    "53d326b3b80312d82b642346a4d3a950.txt": "d42a84a7c7207fce8271236fd733d36d42e7c316a0ec638a49e62acc866588b2"
+  },
+  "revision": "e46032c4ad96dabd42b05fee98f69ff248d230ceca8152235a0efb033e7eb3c0"
+}
